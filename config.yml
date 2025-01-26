@@ -79,17 +79,17 @@ params:
         - name: Email
           url: 785987@pdsb.net
         - name: 
-          url: 
+          URL: 
         - name: Location
           url: location/
-        - name: 
+        - name: Mississauga, Ontario, Canada
           url: 
         - name: 
           url: 
         - name: GitHub
           url: https://github.com/Danteg109
-        - name: Substack
-          url: https://pmichaillat.substack.com
+        - name: 
+          url: 
         - name: 
           url: 
         - name: 
@@ -101,8 +101,8 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
-      icon: favicon.ico
+      text: 
+      icon: 
       iconHeight: 18
 
 markup:
