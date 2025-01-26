@@ -9,7 +9,6 @@ description: "Where I am from."
 
 
 #### Local address/area
-
 Mississauga, Ontario, Canada
 
 ---
