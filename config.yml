@@ -27,7 +27,7 @@ menu:
           weight: 6
 
 params:
-    description: "I am a second year high schooler"
+    description: "My name is Dante, I am a second-year high schooler at Port Credit Secondary School. I am in the Scitech regional program so I have lots of knowledge based on science and technology courses, I am very strong in most things with technology and have some strengths in science-related fields. "
     author: Dante
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Dante's website
-          subtitle: "I am a second year high schooler"
+          subtitle: "PCSS student"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -71,29 +71,29 @@ params:
             - name: Archive
               url: archive/
             - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: https://styles.redditmedia.com/t5_3pgxe/styles/communityIcon_el7t4q1csw321.jpg?width=256&format=pjpg&s=e95c28f0e06d523c6122a609492106d7c5e50f20(character)
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: 785987@pdsb.net
+        - name: 
+          url: 
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        - name: 
+          url: 
+        - name: 
+          url: 
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/Danteg109
         - name: Substack
           url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+        - name: 
+          url: 
+        - name: 
+          url: 
 
     assets:
         disableScrollBarStyle: true
