@@ -54,7 +54,7 @@ params:
           enabled: true
           title: About Dante
           subtitle: "My name is Dante, I am a second-year high schooler at Port Credit Secondary School. I am in the Scitech regional program so I have lots of knowledge based on science and technology courses, I am very strong in most things with technology and have some strengths in science-related fields."
-          imageUrl: "picture.jpeg"
+          imageUrl: "https://styles.redditmedia.com/t5_3pgxe/styles/communityIcon_el7t4q1csw321.jpg?width=256&format=pjpg&s=e95c28f0e06d523c6122a609492106d7c5e50f20"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -71,7 +71,7 @@ params:
             - name: Archive
               url: archive/
             - name: Blog
-              url: https://styles.redditmedia.com/t5_3pgxe/styles/communityIcon_el7t4q1csw321.jpg?width=256&format=pjpg&s=e95c28f0e06d523c6122a609492106d7c5e50f20
+              url: "https://styles.redditmedia.com/t5_3pgxe/styles/communityIcon_el7t4q1csw321.jpg?width=256&format=pjpg&s=e95c28f0e06d523c6122a609492106d7c5e50f20"
 
     socialIcons:
         - name: CV
@@ -81,7 +81,7 @@ params:
         - name: 
           URL: 
         - name: Location
-          url: location/
+          url: location/Mississauga, Ontario, Canada
         - name: Mississauga, Ontario, Canada
           url: 
         - name: 
