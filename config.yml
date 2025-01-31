@@ -58,19 +58,7 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: 
-              url: 
-            - name: 
-              url: 
-            - name: 
-              url: 
-            - name: 
-              url: 
-            - name: 
-              url: 
-            - name: 
-              url: 
-            - name: 
+            
               url: "https://styles.redditmedia.com/t5_3pgxe/styles/communityIcon_el7t4q1csw321.jpg?width=256&format=pjpg&s=e95c28f0e06d523c6122a609492106d7c5e50f20"
 
     socialIcons:
