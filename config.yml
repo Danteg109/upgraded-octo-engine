@@ -77,9 +77,8 @@ params:
     socialIcons:
         - name: CV
           url: cv.pdf
-        - name: 
-          url: 
-        - name: 
+        - name: Github
+          url: https://github.com/Danteg109
           URL: 
         - name: 
           url: 
